@@ -1,0 +1,27 @@
+{
+  "name": "phonecat",
+  "homepage": "https://github.com/robertzach66/phonecat",
+  "authors": [
+    "Robert Zach <robert.zach@live.de>"
+  ],
+  "description": "A tutorial project from the angular web side",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.5",
+    "angular-mocks": "^1.5.5",
+    "jquery": "^2.2.4",
+    "bootstrap": "^3.3.6",
+    "angular-route": "^1.5.5",
+    "angular-animate": "^1.5.5",
+    "angular-resource": "^1.5.5"
+  }
+}

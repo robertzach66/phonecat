@@ -2,6 +2,20 @@ The tutorial is a one to one of the AngularJS tutorial.
 I am copying all content files and redo all technical stuff,
 like setting up and using:
   git, github, npm, bower, jquery, angular
+  
+Things, I did different from the tutorial:
+
+- I was not using the angular-seed project as a skeleton.
+  Instead, I was setting up the needed javascript libs by hand.
+  But following the given structure.
+  Reasons: 
+    1. I like to have newer versions of the libs.
+	   For this I was using:
+	      
+		  npm install --save <package-name> without #<package-version>
+	    
+	2. I like to learn about the libs. Because I am also new to: 
+	   node, require, coffeescript, jquery ...
 
 This is the original content of the readme.md:
 

@@ -1,0 +1,10 @@
+# ignore this
+llogs
+!.gitkeep
+node_modules/
+tmp
+.idea
+.DS_Store
+phonecat-snapshots
+bower_components/
+
